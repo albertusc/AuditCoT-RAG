@@ -128,11 +128,6 @@ RAG-Audit/
 │   │   ├── enriched_pdfs/            # Chunks with metadata
 │   │   ├── chunked_pdfs/             # Final 2,048-char chunks
 │   │   └── qga_final_dataset/        # Train/test QGA pairs
-├── Models/
-│   ├── intfloat-multilingual-e5-base/
-│   ├── bge-reranker-v2-m3/
-│   ├── Qwen3-8B-4Bit-Quantized/
-│   └── Qwen3-8B-QLoRA-Finetuned/
 ├── RAG Audit-CoT (Cleaned).ipynb
 └── thesis_evaluation_final.json
 ```
