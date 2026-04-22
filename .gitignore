@@ -1,0 +1,17 @@
+# Large database files
+Data/DB/
+Data/Raw/
+
+# Model weights
+Models/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
