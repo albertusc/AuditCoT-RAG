@@ -128,9 +128,6 @@ RAG-Audit/
 │   │   ├── enriched_pdfs/            # Chunks with metadata
 │   │   ├── chunked_pdfs/             # Final 2,048-char chunks
 │   │   └── qga_final_dataset/        # Train/test QGA pairs
-│   └── DB/
-│       ├── vector_db/                # FAISS index + metadata
-│       └── BM25/                     # BM25 sparse index
 ├── Models/
 │   ├── intfloat-multilingual-e5-base/
 │   ├── bge-reranker-v2-m3/
