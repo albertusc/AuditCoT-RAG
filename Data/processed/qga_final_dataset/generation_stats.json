@@ -1,0 +1,11 @@
+{
+  "total_train_qgas": 270,
+  "total_test_qgas": 90,
+  "features": [
+    "Metric Extraction",
+    "Strict Confidence",
+    "Leakage Prevention"
+  ],
+  "generation_date": "2025-12-16 22:21:46",
+  "total_time_minutes": "51.8"
+}
