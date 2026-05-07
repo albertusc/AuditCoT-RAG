@@ -278,8 +278,7 @@ Root causes of failed extractions (MA = 0.0):
   title     = {AUDITRAG: OPTIMASI HYBRID RETRIEVAL DAN AUDIT CHAIN-OF-THOUGHT PADA MODEL QWEN-3 UNTUK PENALARAN NUMERIK LAPORAN KEUANGAN},
   author    = {Albertus Christian Wahyu Atmaja},
   year      = {2026},
-  note      = {Undergraduate Thesis},
-  publisher = {Universitas Multimedia Nusantara}
+  note      = {Thesis}
 }
 ```
 
